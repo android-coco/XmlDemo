@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<VitalSigns>
+    <PatientID>000091381000</PatientID>
+    <VisitID>1</VisitID>
+    <VitalSigns>
+        <Detail>
+            <MeasureType>TW</MeasureType>
+            <MeasureValue>36</MeasureValue>
+            <MeasureDateTime>2013-03-06 2:35:00</MeasureDateTime>
+            <Recorder>护士1</Recorder>
+            <RecorderID>00375</RecorderID>
+        </Detail>
+        <Detail>
+            <MeasureType>TW</MeasureType>
+            <MeasureValue>37.1</MeasureValue>
+            <MeasureDateTime>2013-03-06 7:01:00</MeasureDateTime>
+            <Recorder>护士1</Recorder>
+            <RecorderID>00375</RecorderID>
+        </Detail>
+    </VitalSigns>
+</VitalSigns>
